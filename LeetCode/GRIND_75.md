@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 4 / 75 (5.3%)
+- **Completed:** 5 / 75 (6.7%)
 
 ---
 
@@ -95,7 +95,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Validate Binary Search Tree
 - [x] [Kth Smallest Element in a BST](./Python/Medium/230. Kth Smallest Element in a BST/)
-- [ ] Lowest Common Ancestor of a Binary Search Tree
+- [x] [Lowest Common Ancestor of a Binary Search Tree](./Python/Medium/235. Lowest Common Ancestor of a Binary Search Tree/)
 - [ ] Implement Trie (Prefix Tree)
 - [ ] Design Add and Search Words Data Structure
 - [ ] Word Search II
