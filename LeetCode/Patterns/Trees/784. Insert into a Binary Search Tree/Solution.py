@@ -7,22 +7,49 @@
 
 class Solution:
     def insertIntoBST(self, root: TreeNode | None, val: int) -> TreeNode | None:
-        if root is None:
-            return TreeNode(val)
 
+        new_node = TreeNode(val)
+        if root == None:
+            return new_node
         temp = root
+        while(True):
+            if(val<temp.val):
+                if(temp.left==None):
+                    temp.left = new_node
+                    break
+                else:
+                    temp=temp.left
+            elif(val>temp.val):
+                if(temp.right == None):
+                    temp.right = new_node
+                    break
+                else:
+                    temp = temp.right
+        return root 
 
+
+
+
+
+
+
+
+
+
+        """
+        if root == None:
+            return TreeNode(val)
+        temp = root
         while temp:
             if val > temp.val:
-                if temp.right is None:
+                if temp.right == None:
                     temp.right = TreeNode(val)
                     break
                 temp = temp.right
-
             else:
-                if temp.left is None:
+                if temp.left == None:
                     temp.left = TreeNode(val)
                     break
                 temp = temp.left
-
         return root
+        """

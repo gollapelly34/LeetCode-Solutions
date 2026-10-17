@@ -8,8 +8,8 @@
 Tree, Binary Search Tree, Binary Tree
 
 ### 🚀 Performance
-- **Runtime:** 2 ms
-- **Memory:** 21.2 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
