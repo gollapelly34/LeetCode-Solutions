@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 8 / 76 (10.5%)
+- **Completed:** 9 / 76 (11.8%)
 
 ---
 
@@ -65,7 +65,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Valid Parentheses
 - [ ] Next Greater Element I
 - [ ] Next Greater Element II
-- [ ] Largest Rectangle in Histogram
+- [x] [Largest Rectangle in Histogram](./Python/Hard/84. Largest Rectangle in Histogram/)
 - [ ] Sliding Window Maximum
 - [ ] Min Stack
 - [ ] Rotting Oranges
