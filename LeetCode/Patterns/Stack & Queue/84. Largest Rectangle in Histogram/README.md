@@ -8,8 +8,8 @@
 Array, Stack, Monotonic Stack, Range Minimum/Maximum Query
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 164 ms
+- **Memory:** 31.3 MB
 
 ---
 
