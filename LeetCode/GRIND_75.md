@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 8 / 75 (10.7%)
+- **Completed:** 9 / 75 (12.0%)
 
 ---
 
@@ -62,7 +62,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Reverse Linked List
 - [ ] Linked List Cycle
 - [ ] Merge Two Sorted Lists
-- [ ] Merge k Sorted Lists
+- [x] [Merge k Sorted Lists](./Python/Hard/23. Merge k Sorted Lists/)
 - [ ] Remove Nth Node From End of List
 - [ ] Reorder List
 
