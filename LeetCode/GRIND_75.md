@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 9 / 75 (12.0%)
+- **Completed:** 10 / 75 (13.3%)
 
 ---
 
@@ -93,7 +93,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Serialize and Deserialize Binary Tree
 - [ ] Subtree of Another Tree
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
-- [ ] Validate Binary Search Tree
+- [x] [Validate Binary Search Tree](./Python/Medium/98. Validate Binary Search Tree/)
 - [x] [Kth Smallest Element in a BST](./Python/Medium/230. Kth Smallest Element in a BST/)
 - [x] [Lowest Common Ancestor of a Binary Search Tree](./Python/Medium/235. Lowest Common Ancestor of a Binary Search Tree/)
 - [ ] Implement Trie (Prefix Tree)

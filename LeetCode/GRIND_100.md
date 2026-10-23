@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 11 / 100 (11.0%)
+- **Completed:** 12 / 100 (12.0%)
 
 ---
 
@@ -63,7 +63,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Binary Tree Inorder Traversal
 - [x] [Binary Tree Level Order Traversal](./Python/Medium/102. Binary Tree Level Order Traversal/)
 - [ ] Convert Sorted Array to Binary Search Tree
-- [ ] Validate Binary Search Tree
+- [x] [Validate Binary Search Tree](./Python/Medium/98. Validate Binary Search Tree/)
 - [x] [Lowest Common Ancestor of a Binary Tree](./Python/Medium/236. Lowest Common Ancestor of a Binary Tree/)
 - [x] [Kth Smallest Element in a BST](./Python/Medium/230. Kth Smallest Element in a BST/)
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal

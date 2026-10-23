@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 12 / 76 (15.8%)
+- **Completed:** 13 / 76 (17.1%)
 
 ---
 
@@ -85,7 +85,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [x] [Symmetric Tree](./Python/Easy/101. Symmetric Tree/)
-- [ ] Validate Binary Search Tree
+- [x] [Validate Binary Search Tree](./Python/Medium/98. Validate Binary Search Tree/)
 - [x] [Lowest Common Ancestor of a Binary Search Tree](./Python/Medium/235. Lowest Common Ancestor of a Binary Search Tree/)
 - [x] [Kth Smallest Element in a BST](./Python/Medium/230. Kth Smallest Element in a BST/)
 - [ ] Serialize and Deserialize Binary Tree
