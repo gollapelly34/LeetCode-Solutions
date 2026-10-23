@@ -10,10 +10,11 @@ class Solution:
             return 0
         l = self.minDepth(root.left)
         r = self.minDepth(root.right)
+
         if l == 0 or r == 0:
-            return max(l, r) + 1
+            return 1 + max(l, r)
 
-        return min(l, r) + 1
-    
 
+        return  1 + min(l,r)
+       
        
