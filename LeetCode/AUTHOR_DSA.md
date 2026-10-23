@@ -76,7 +76,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Missing Number
 - [ ] Find Integer Added to Array
 - [ ] Minimum Operations to Make Array Zero
-- [x] [Concatenation of Array](./Python/Easy/1929. Concatenation of Array/)
+- [x] [Concatenation of Array](./Python/Easy/2058. Concatenation of Array/)
 
 ### 📂 MODULE  3.3: INPLACE ARRAY MODIFICATION
 - [ ] Move Zeroes
