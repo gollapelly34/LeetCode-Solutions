@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 11 / 76 (14.5%)
+- **Completed:** 12 / 76 (15.8%)
 
 ---
 
@@ -77,7 +77,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Binary Tree Postorder Traversal
 - [x] [Binary Tree Level Order Traversal](./Python/Medium/102. Binary Tree Level Order Traversal/)
 - [x] [Maximum Depth of Binary Tree](./Python/Easy/104. Maximum Depth of Binary Tree/)
-- [ ] Diameter of Binary Tree
+- [x] [Diameter of Binary Tree](./Python/Easy/543. Diameter of Binary Tree/)
 - [ ] Balanced Binary Tree
 - [x] [Lowest Common Ancestor of a Binary Tree](./Python/Medium/236. Lowest Common Ancestor of a Binary Tree/)
 - [x] [Same Tree](./Python/Easy/100. Same Tree/)
