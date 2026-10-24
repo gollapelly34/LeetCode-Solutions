@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 12 / 100 (12.0%)
+- **Completed:** 13 / 100 (13.0%)
 
 ---
 
@@ -68,7 +68,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [Kth Smallest Element in a BST](./Python/Medium/230. Kth Smallest Element in a BST/)
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Binary Tree Maximum Path Sum
-- [ ] Path Sum III
+- [x] [Path Sum III](./Python/Medium/437. Path Sum III/)
 - [ ] Flatten Binary Tree to Linked List
 - [ ] Merge Two Binary Trees
 
