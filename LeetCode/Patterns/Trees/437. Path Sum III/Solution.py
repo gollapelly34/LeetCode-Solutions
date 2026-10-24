@@ -6,25 +6,6 @@
 #         self.right = right
 class Solution:
     def pathSum(self, root: TreeNode | None, targetSum: int) -> int:
-         def check(root,l):
-            if(root==None):
-                return 0
-            l.append(root.val)
-            temp=0
-            count=0
-            for i in reversed(l):
-                temp+=i
-                if(temp==targetSum):
-                    count+=1
-            count+=check(root.left,l)
-            count+=check(root.right,l)
-            l.pop()
-            return count
-        return check(root,[])
-
-
-
-        """
         if root == None:
             return 0
 
@@ -41,5 +22,5 @@ class Solution:
             return c
 
         return (countPath(root, targetSum)+ self.pathSum(root.left, targetSum)+ self.pathSum(root.right, targetSum))
-        """
+        
         
