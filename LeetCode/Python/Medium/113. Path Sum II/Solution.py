@@ -6,6 +6,23 @@
 #         self.right = right
 class Solution:
     def pathSum(self, root: TreeNode | None, targetSum: int) -> list[list[int]]:
+        res = []
+        def check(root,l):
+            if root== None:
+                return res
+            l.append(root.val)
+            if(root.left == None and root.right ==None):
+                if sum(l) == targetSum:
+                    res.append(l.copy())
+            check(root.left,l)
+            check(root.right,l)
+            l.pop()
+        check(root,[])
+        return res
+
+
+
+        """
         if root == None:
             return []
         if root.right == None and root.left == None :
@@ -22,7 +39,7 @@ class Solution:
         for i in r:
             res.append([root.val]+ i)
         return res
-
+"""
 
         
         
