@@ -16,7 +16,6 @@ class Solution:
             l = solve(root.left,num)
             r = solve(root.right,num)
             return l+r
-
         return solve(root,0)
         
         
