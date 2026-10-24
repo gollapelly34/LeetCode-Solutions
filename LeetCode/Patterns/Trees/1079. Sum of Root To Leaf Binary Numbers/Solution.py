@@ -8,16 +8,16 @@ class Solution:
     def sumRootToLeaf(self, root: TreeNode | None) -> int:
         if root == None:
             return None
-        def findSum(node, s):
+        def findSum(node, num):
             if node == None:
                 return 0
 
-            s = s * 2 + node.val
+            num = num * 2 + node.val
 
             if node.left == None and node.right == None:
-                return s
+                return num
 
-            return findSum(node.left, s) + findSum(node.right, s)
+            return findSum(node.left, num) + findSum(node.right, num)
 
         return findSum(root, 0)
         
