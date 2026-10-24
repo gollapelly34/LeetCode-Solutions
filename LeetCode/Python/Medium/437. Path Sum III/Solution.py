@@ -21,8 +21,6 @@ class Solution:
 
             return c
 
-        return (countPath(root, targetSum)
-                + self.pathSum(root.left, targetSum)
-                + self.pathSum(root.right, targetSum))
+        return (countPath(root, targetSum)+ self.pathSum(root.left, targetSum)+ self.pathSum(root.right, targetSum))
         
         
