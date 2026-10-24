@@ -6,18 +6,16 @@
 #         self.right = right
 class Solution:
     def sumRootToLeaf(self, root: TreeNode | None) -> int:
-        if root == None:
-            return None
-        def findSum(node, num):
-            if node == None:
+        def check(root, num):
+            if root == None:
                 return 0
 
-            num = num * 2 + node.val
+            num = num * 2 + root.val
 
-            if node.left == None and node.right == None:
+            if root.left == None and root.right == None:
                 return num
 
-            return findSum(node.left, num) + findSum(node.right, num)
+            return check(root.left, num) + check(root.right, num)
 
-        return findSum(root, 0)
+        return check(root, 0)
         
