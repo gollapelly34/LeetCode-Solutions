@@ -6,7 +6,5 @@
 #         self.right = right
 class Solution:
     def checkTree(self, root: TreeNode | None) -> bool:
-        if root == None:
-            return False
 
         return root.left.val + root.right.val == root.val
