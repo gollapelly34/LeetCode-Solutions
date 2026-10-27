@@ -1,6 +1,6 @@
 # 📝 263. Ugly Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/ugly-number)
+🔗 [Problem Link](https://leetcode.com/problems/ugly-number/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
