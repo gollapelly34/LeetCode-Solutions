@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 12 / 238 (5.0%)
+- **Completed:** 13 / 238 (5.5%)
 
 ---
 
@@ -14,7 +14,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Count the Digits That Divide a Number
 - [x] [Reverse Integer](./Python/Medium/7. Reverse Integer/)
 - [ ] Palindrome Number
-- [ ] Add Digits
+- [x] [Add Digits](./Python/Easy/258. Add Digits/)
 
 ### 📂 MODULE  2.2: SPECIAL NUMBER IDENTITIES A
 - [ ] Harshad Number
