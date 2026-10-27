@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 13 / 238 (5.5%)
+- **Completed:** 14 / 238 (5.9%)
 
 ---
 
@@ -32,7 +32,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Count Primes
 - [ ] Super Palindromes
 - [ ] Count Numbers with Unique Digits
-- [ ] Ugly Number
+- [x] [Ugly Number](./Python/Easy/263. Ugly Number/)
 
 ### 📂 MODULE  2.5: POWER, EXPONENT & LOGIC MAT
 - [ ] Nth Magical Number
