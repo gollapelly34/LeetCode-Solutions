@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 13 / 100 (13.0%)
+- **Completed:** 14 / 100 (14.0%)
 
 ---
 
@@ -84,7 +84,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Find First and Last Position of Element in Sorted Array
 
 ### 📂 Graph & Trie
-- [ ] Number of Islands
+- [x] [Number of Islands](./Python/Medium/200. Number of Islands/)
 - [ ] Course Schedule
 - [ ] Implement Trie (Prefix Tree)
 
