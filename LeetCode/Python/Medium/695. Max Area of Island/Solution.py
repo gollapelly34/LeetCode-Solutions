@@ -5,8 +5,7 @@ class Solution:
         maxi = 0
         for i in range(m):
             for j in range(n):
-                if grid[i][j] == 1:
-                   
+                if grid[i][j] == 1:    
                     grid[i][j] = 0
                     q = []
                     q.append([i,j])
