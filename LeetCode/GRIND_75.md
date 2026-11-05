@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 13 / 75 (17.3%)
+- **Completed:** 14 / 75 (18.7%)
 
 ---
 
@@ -35,7 +35,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Longest Common Subsequence
 - [ ] Word Break
 - [ ] Combination Sum
-- [ ] House Robber
+- [x] [House Robber](./Python/Medium/198. House Robber/)
 - [ ] House Robber II
 - [ ] Decode Ways
 - [ ] Unique Paths
