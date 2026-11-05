@@ -1,6 +1,6 @@
 # 📝 62. Unique Paths (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/unique-paths)
+🔗 [Problem Link](https://leetcode.com/problems/unique-paths/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
