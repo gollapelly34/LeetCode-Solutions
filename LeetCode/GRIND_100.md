@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 16 / 100 (16.0%)
+- **Completed:** 17 / 100 (17.0%)
 
 ---
 
@@ -96,7 +96,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [House Robber](./Python/Medium/198. House Robber/)
 - [ ] Partition Equal Subset Sum
 - [ ] Edit Distance
-- [ ] Unique Paths
+- [x] [Unique Paths](./Python/Medium/62. Unique Paths/)
 - [ ] Minimum Path Sum
 - [ ] Target Sum
 - [ ] Unique Binary Search Trees
