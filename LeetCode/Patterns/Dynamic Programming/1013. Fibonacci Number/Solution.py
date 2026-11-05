@@ -1,6 +1,6 @@
 class Solution:
     def fib(self, n: int) -> int:
-        dp = [0] * (n+1)
+        dp = [-1] * (n+1)
         if n<=1:
             return n
         dp[0] = 0
