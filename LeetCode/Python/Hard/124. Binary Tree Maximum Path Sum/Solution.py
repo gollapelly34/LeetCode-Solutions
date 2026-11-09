@@ -12,7 +12,6 @@ class Solution:
             if root == None:
                 return 0
 
-       
             l =  max(0,solve(root.left))
             r = max(0,solve(root.right))
             maxi[0] = max(maxi[0], l + r + root.val)
