@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 15 / 76 (19.7%)
+- **Completed:** 16 / 76 (21.1%)
 
 ---
 
@@ -82,7 +82,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [x] [Lowest Common Ancestor of a Binary Tree](./Python/Medium/236. Lowest Common Ancestor of a Binary Tree/)
 - [x] [Same Tree](./Python/Easy/100. Same Tree/)
 - [ ] Binary Tree Zigzag Level Order Traversal
-- [ ] Binary Tree Maximum Path Sum
+- [x] [Binary Tree Maximum Path Sum](./Python/Hard/124. Binary Tree Maximum Path Sum/)
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [x] [Symmetric Tree](./Python/Easy/101. Symmetric Tree/)
 - [x] [Validate Binary Search Tree](./Python/Medium/98. Validate Binary Search Tree/)
