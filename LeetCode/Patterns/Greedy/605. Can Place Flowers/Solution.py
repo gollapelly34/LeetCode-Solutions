@@ -1,6 +1,6 @@
 class Solution:
     def canPlaceFlowers(self, flowerbed: list[int], n: int) -> bool:
-        n  = len(flowerbed)
+    
     
         for i in range(len(flowerbed)):
             left = False
