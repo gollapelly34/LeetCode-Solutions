@@ -4,7 +4,7 @@ class Solution:
         answer = 0
         for a,b in boxTypes:
             if a <= truckSize:
-                answer = answer + (a*b)
+                answer += (a*b)
                 truckSize -= a
             else:
                 answer += truckSize * b
