@@ -1,6 +1,6 @@
 # 📝 605. Can Place Flowers (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/can-place-flowers/)
+🔗 [Problem Link](https://leetcode.com/problems/can-place-flowers)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 

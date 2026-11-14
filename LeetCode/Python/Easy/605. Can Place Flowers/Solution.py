@@ -7,11 +7,11 @@ class Solution:
             right = False
             if flowerbed[i] == 0:
                 #left
-                if i == 0 or [i - 1] == 0:
+                if i == 0 or flowerbed[i - 1] == 0:
                     left = True
                     #right
 
-                if i == len - 1 or flowerbed[i + 1] == 0:
+                if i == len(flowerbed) - 1 or flowerbed[i + 1] == 0:
                     right = True
 
 
@@ -19,8 +19,8 @@ class Solution:
                     flowerbed[i]= 0
                     n -= 1
 
-                if n==0:
-                    return True
+        if n==0:
+            return True
 
         
 
