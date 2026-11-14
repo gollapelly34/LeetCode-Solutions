@@ -11,7 +11,7 @@ class Solution:
                     left = True
                     #right
 
-                if i == n - 1 or flowerbed[i + 1] == 0:
+                if i == len - 1 or flowerbed[i + 1] == 0:
                     right = True
 
 
