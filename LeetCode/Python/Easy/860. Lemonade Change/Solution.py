@@ -14,7 +14,7 @@ class Solution:
                     return False
                     
                 
-            else:
+            el:
                 if ten > 0 and five > 0:
                     ten -= 1
                     five -= 1
