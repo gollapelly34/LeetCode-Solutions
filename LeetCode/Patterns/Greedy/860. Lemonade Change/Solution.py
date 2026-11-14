@@ -1,5 +1,6 @@
 class Solution:
     def lemonadeChange(self, bills: list[int]) -> bool:
+        bills.sort()
         five = 0
         ten = 0
         for i in bills:
