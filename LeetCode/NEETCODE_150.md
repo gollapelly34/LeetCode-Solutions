@@ -157,7 +157,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [x] [Gas Station](./Python/Medium/134. Gas Station/)
 - [ ] Hand of Straights
 - [ ] Merge Triplets to Form Target Triplet
-- [x] [Partition Labels](./Python/Medium/763. Partition Labels/)
+- [x] [Partition Labels](./Python/Medium/768. Partition Labels/)
 - [ ] Valid Parenthesis String
 
 ### 📂 Intervals
