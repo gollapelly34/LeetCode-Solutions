@@ -16,7 +16,7 @@ class Solution:
 
 
                 if left and right:
-                    flowerbed[i]= 0
+                    flowerbed[i]= 1
                     n -= 1
 
         if n==0:
