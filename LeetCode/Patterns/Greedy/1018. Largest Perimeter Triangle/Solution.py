@@ -5,8 +5,7 @@ class Solution:
             a = nums[i]
             b = nums[i+1]
             c = nums[i+2]
-            perimeter = a+b+c
             if b+c > a:
-                return perimeter
+                return a+b+c
             
         return 0
