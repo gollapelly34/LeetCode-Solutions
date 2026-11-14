@@ -121,7 +121,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Best Time to Buy and Sell Stock II
 - [ ] Rotate Array
-- [x] [Lemonade Change](./Python/Easy/860. Lemonade Change/)
+- [x] [Lemonade Change](./Python/Easy/890. Lemonade Change/)
 - [ ] Time Needed to Buy Tickets
 - [ ] Boats to Save People
 - [ ] Gas Station
