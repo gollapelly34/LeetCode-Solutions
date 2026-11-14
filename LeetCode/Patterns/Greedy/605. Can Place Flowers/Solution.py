@@ -19,7 +19,7 @@ class Solution:
                     flowerbed[i]= 0
                     n -= 1
 
-                    if n==0:
+                if n==0:
                         return True
 
         
