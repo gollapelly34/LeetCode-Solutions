@@ -1,6 +1,6 @@
 # 📝 860. Lemonade Change (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/lemonade-change/)
+🔗 [Problem Link](https://leetcode.com/problems/lemonade-change)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
