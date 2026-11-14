@@ -8,8 +8,8 @@
 Array, Hash Table, Two Pointers, Binary Search, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 19.1 MB
 
 ---
 
@@ -17,7 +17,7 @@ Array, Hash Table, Two Pointers, Binary Search, Sorting
 
 Given two integer arrays  `nums1`  and  `nums2` , return  *an array of their intersection* . Each element in the result must be  **unique**  and you may return the result in  **any order** .
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: nums1 = [1,2,2,1], nums2 = [2,2]
