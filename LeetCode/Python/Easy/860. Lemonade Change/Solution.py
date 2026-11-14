@@ -7,7 +7,7 @@ class Solution:
             if i == 5:
                 five += 1
             elif i == 10:
-                if five == 0:
+                if five 0:
                     return False
                     
                 five -= 1
