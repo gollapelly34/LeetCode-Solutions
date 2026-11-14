@@ -1,6 +1,5 @@
 class Solution:
     def lemonadeChange(self, bills: list[int]) -> bool:
-        bills.sort()
         five = 0
         ten = 0
         for i in bills:
@@ -12,9 +11,7 @@ class Solution:
                     ten += 1 
                 else:
                     return False
-                    
-                
-            else:
+            elif i == 20:
                 if ten > 0 and five > 0:
                     ten -= 1
                     five -= 1
