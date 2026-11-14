@@ -8,8 +8,8 @@
 Array, Greedy, Sorting, Counting Sort
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 24 ms
+- **Memory:** 21.2 MB
 
 ---
 
@@ -17,7 +17,7 @@ Array, Greedy, Sorting, Counting Sort
 
 Given an integer array  `nums`  of  `2n`  integers, group these integers into  `n`  pairs  `(a1, b1), (a2, b2), ..., (an, bn)`  such that the sum of  `min(ai, bi)`  for all  `i`  is  **maximized** . Return *the maximized sum* .
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,4,3,2]
