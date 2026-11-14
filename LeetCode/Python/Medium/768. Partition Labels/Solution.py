@@ -13,7 +13,6 @@ class Solution:
             if i == end:     
                 answer.append(end - start + 1)
                 start = i + 1
-
         return answer
 
         
