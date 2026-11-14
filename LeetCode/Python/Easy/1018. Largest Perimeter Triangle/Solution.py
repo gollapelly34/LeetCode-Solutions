@@ -8,5 +8,5 @@ class Solution:
             perimeter = a+b+c
             if b+c > a:
                 return perimeter
-            else:
-                return 0
+            
+        return 0

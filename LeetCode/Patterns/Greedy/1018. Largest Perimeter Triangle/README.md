@@ -8,8 +8,8 @@
 Array, Math, Greedy, Sorting, Quicksort, Polygons
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 65 ms
+- **Memory:** 20.4 MB
 
 ---
 
