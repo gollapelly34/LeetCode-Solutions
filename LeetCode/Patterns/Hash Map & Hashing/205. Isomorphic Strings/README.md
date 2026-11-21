@@ -2,7 +2,7 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/isomorphic-strings/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Plaintext-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Hash Table, String
@@ -21,7 +21,7 @@ Two strings  `s`  and  `t`  are isomorphic if the characters in  `s`  can be rep
 
 All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character, but a character may map to itself.
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 **Input:**  s = "egg", t = "add"
 

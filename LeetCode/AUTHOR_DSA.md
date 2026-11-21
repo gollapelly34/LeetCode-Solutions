@@ -235,7 +235,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] First Unique Character
 - [ ] Longest Palindrome
 - [ ] Sort Characters by Frequency
-- [x] [Isomorphic Strings](./Plaintext/Easy/205. Isomorphic Strings/)
+- [x] [Isomorphic Strings](./Python/Easy/205. Isomorphic Strings/)
 - [ ] Reconstruct Original Digits from English
 - [ ] Sort Vowels in a String
 - [ ] GCD of Strings
