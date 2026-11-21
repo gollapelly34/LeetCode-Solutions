@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 29 / 238 (12.2%)
+- **Completed:** 30 / 238 (12.6%)
 
 ---
 
@@ -235,7 +235,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] First Unique Character
 - [ ] Longest Palindrome
 - [ ] Sort Characters by Frequency
-- [ ] Isomorphic Strings
+- [x] [Isomorphic Strings](./Plaintext/Easy/205. Isomorphic Strings/)
 - [ ] Reconstruct Original Digits from English
 - [ ] Sort Vowels in a String
 - [ ] GCD of Strings
