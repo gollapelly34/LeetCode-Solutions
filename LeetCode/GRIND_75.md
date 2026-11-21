@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 19 / 75 (25.3%)
+- **Completed:** 20 / 75 (26.7%)
 
 ---
 
@@ -15,7 +15,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [x] [Contains Duplicate](./Python/Easy/217. Contains Duplicate/)
 - [ ] Product of Array Except Self
 - [ ] Maximum Subarray
-- [ ] Maximum Product Subarray
+- [x] [Maximum Product Subarray](./Python/Medium/152. Maximum Product Subarray/)
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
 - [x] [3Sum](./Python/Medium/15. 3Sum/)
