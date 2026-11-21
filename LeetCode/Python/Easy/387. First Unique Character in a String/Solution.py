@@ -1,5 +1,21 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
+        d = {}
+        for i in s:
+            if i not in d:
+                d[i] = 1
+            else:
+                d[i] += 1
+        for i in s:
+            if d[i] == 1:
+                return s.index(i)
+        return -1
+
+
+
+
+
+        """
         min_index = len(s)
         
         
@@ -12,7 +28,7 @@ class Solution:
         return min_index if min_index != len(s) else -1
 
 
-
+"""
        
 
         
