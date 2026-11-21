@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 4 / 65 (6.2%)
+- **Completed:** 5 / 65 (7.7%)
 
 ---
 
@@ -25,7 +25,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [ ] Odd Even Linked List
 - [ ] Merge In Between Linked Lists
 - [ ] Swapping Nodes in a Linked List
-- [ ] Delete the Middle Node of a Linked List
+- [x] [Delete the Middle Node of a Linked List](./Python/Medium/2095. Delete the Middle Node of a Linked List/)
 
 ### 📂 Module  1.3: Duplicate Handling & List C
 - [ ] Remove Duplicates from Sorted List
