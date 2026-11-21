@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 16 / 76 (21.1%)
+- **Completed:** 17 / 76 (22.4%)
 
 ---
 
@@ -69,7 +69,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Sliding Window Maximum
 - [ ] Min Stack
 - [ ] Rotting Oranges
-- [ ] Daily Temperatures
+- [x] [Daily Temperatures](./Python/Medium/739. Daily Temperatures/)
 
 ### 📂 Binary Tree & BST
 - [ ] Binary Tree Inorder Traversal

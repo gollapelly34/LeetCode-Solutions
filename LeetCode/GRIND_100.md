@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 20 / 100 (20.0%)
+- **Completed:** 21 / 100 (21.0%)
 
 ---
 
@@ -108,7 +108,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 
 ### 📂 Stack & Heap
 - [ ] Min Stack
-- [ ] Daily Temperatures
+- [x] [Daily Temperatures](./Python/Medium/739. Daily Temperatures/)
 - [ ] Top K Frequent Elements
 - [ ] Find Median from Data Stream
 - [ ] Kth Largest Element in an Array

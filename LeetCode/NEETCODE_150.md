@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 27 / 150 (18.0%)
+- **Completed:** 28 / 150 (18.7%)
 
 ---
 
@@ -40,7 +40,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
-- [ ] Daily Temperatures
+- [x] [Daily Temperatures](./Python/Medium/739. Daily Temperatures/)
 - [ ] Car Fleet
 - [x] [Largest Rectangle in Histogram](./Python/Hard/84. Largest Rectangle in Histogram/)
 
