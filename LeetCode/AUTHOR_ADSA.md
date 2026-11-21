@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 3 / 65 (4.6%)
+- **Completed:** 4 / 65 (6.2%)
 
 ---
 
@@ -77,7 +77,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 
 ### 📂 Module  2.3: String Reduction & Transfor
 - [ ] Make The String Great
-- [ ] Remove All Adjacent Duplicates In String
+- [x] [Remove All Adjacent Duplicates In String](./Python/Easy/1128. Remove All Adjacent Duplicates In String/)
 - [ ] Remove All Adjacent Duplicates in String II
 - [ ] Remove All Occurrences of a Substring
 - [ ] Reverse Substrings Between Each Pair of Parentheses
