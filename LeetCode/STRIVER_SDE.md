@@ -63,7 +63,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 
 ### 📂 Stack & Queue
 - [ ] Valid Parentheses
-- [x] [Next Greater Element I](./Plaintext/Easy/496. Next Greater Element I/)
+- [x] [Next Greater Element I](./Python/Easy/496. Next Greater Element I/)
 - [ ] Next Greater Element II
 - [x] [Largest Rectangle in Histogram](./Python/Hard/84. Largest Rectangle in Histogram/)
 - [ ] Sliding Window Maximum

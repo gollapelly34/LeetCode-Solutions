@@ -2,7 +2,7 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/next-greater-element-i/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Plaintext-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Array, Hash Table, Stack, Monotonic Stack
@@ -23,7 +23,7 @@ For each  `0 <= i < nums1.length` , find the index  `j`  such that  `nums1[i] ==
 
 Return  *an array*  `ans`  *of length*  `nums1.length`  *such that*  `ans[i]`  *is the  **next greater element**  as described above.*
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: nums1 = [4,1,2], nums2 = [1,3,4,2]
