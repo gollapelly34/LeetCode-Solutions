@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 6 / 65 (9.2%)
+- **Completed:** 7 / 65 (10.8%)
 
 ---
 
@@ -92,7 +92,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [ ] Number of Atoms
 
 ### 📂 Module  2.5: Monotonic Stack & Next Elem
-- [ ] Next Greater Element I
+- [x] [Next Greater Element I](./Plaintext/Easy/496. Next Greater Element I/)
 - [ ] Next Greater Element II
 - [x] [Daily Temperatures](./Python/Medium/739. Daily Temperatures/)
 - [ ] Final Prices With a Special Discount in a Shop
