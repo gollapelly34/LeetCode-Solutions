@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/relative-ranks/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Plaintext-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Array, Sorting, Heap (Priority Queue)
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 3 ms
+- **Memory:** 20.1 MB
 
 ---
 
@@ -30,7 +30,7 @@ The athletes are  **placed**  based on their scores, where the  `1st`  place ath
 
 Return an array  `answer`  of size  `n`  where  `answer[i]`  is the  **rank**  of the  `ith`  athlete.
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: score = [5,4,3,2,1]
